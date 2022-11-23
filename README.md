@@ -23,7 +23,7 @@ Para acessar o site, é só entrar em **https://snakegame-luciano655dev.netlify.
 
 Primeiramente, clone esse repósitório em alguma pasta no seu computador com
 ```
-git clone https://github.com/Luciano655dev/Portfolio
+git clone https://github.com/Luciano655dev/SnakeGame
 ```
 
 Com o arquivo instalado, é só abrir o arquivo `index.html` no seu computador
@@ -60,5 +60,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 ## 😄 Seja um dos contribuidores<br>
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-[⬆ Voltar ao topo](#Portfolio)<br>
